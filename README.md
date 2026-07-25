@@ -24,6 +24,6 @@ An IoT-based smart dormitory prototype developed as a university course project.
 - Node-RED
 - MQTT
 
-## Dashboard
+## Prototype
 
-![Dashboard](dashboard.png)
+![Prototype](Smart-Hor-Pak.png)
