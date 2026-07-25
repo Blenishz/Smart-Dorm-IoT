@@ -26,4 +26,4 @@ An IoT-based smart dormitory prototype developed as a university course project.
 
 ## Prototype
 
-![Prototype](Smart-Hor-Pak.png)
+![Prototype](Smart-Hor-Pak.jpg)
