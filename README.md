@@ -23,3 +23,7 @@ An IoT-based smart dormitory prototype developed as a university course project.
 - Arduino IDE
 - Node-RED
 - MQTT
+
+## Dashboard
+
+![Dashboard](dashboard.png)
