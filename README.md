@@ -65,6 +65,6 @@ Developed an IoT-based smart dormitory prototype as part of a four-member team.
 
 ---
 
-## Prototype
+## Project Overview
 
 ![Prototype](Smart-Hor-Pak.jpg)
